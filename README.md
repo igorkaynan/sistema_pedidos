@@ -37,6 +37,9 @@ Este projeto é um sistema de pedidos de hambúrgueres desenvolvido em **Vue.js*
 Aqui está uma imagem de como o Sistema de Pedidos se parece:
 
 ![Sistema_pedidos]
+![home](https://github.com/user-attachments/assets/d9b700a5-6d0b-46ee-8c41-14cc0be22798)
+![pedidos](https://github.com/user-attachments/assets/3e012b4c-7642-4443-8f14-b9ce804f10dc)
+
 
 > **Nota:** Certifique-se de ter o Vue CLI instalado em sua máquina para rodar a aplicação corretamente. Caso não tenha, você pode instalar via npm install -g @vue/cli.
 
