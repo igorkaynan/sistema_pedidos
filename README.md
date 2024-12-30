@@ -1,5 +1,5 @@
 
-# Sistema de pedidos em Vue
+# Sistema de Pedidos
 
 Este projeto é um sistema de pedidos de hambúrgueres desenvolvido em **Vue.js**. O objetivo é criar uma aplicação que permita aos usuários montar seu próprio lanche, escolhendo diferentes opções de acompanhamentos e personalizando o pedido. Além disso, o sistema permite visualizar o pedido, acompanhar o status da preparação e cancelamento do pedido.
 
