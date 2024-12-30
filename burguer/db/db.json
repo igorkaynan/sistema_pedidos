@@ -1,0 +1,227 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Pão Mexicano"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 5,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 6,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "8261",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon"
+      ],
+      "status": "s.tipo"
+    },
+    {
+      "id": "f1e3",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Bacon",
+        "Tomate"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "8355",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Pepino"
+      ],
+      "status": "Finalizado"
+    },
+    {
+      "id": "76cf",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Bacon",
+        "Salame"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "6643",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "348f",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Tomate"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "a2a2",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Salame"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "6d80",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Pepino"
+      ],
+      "status": "Em produção"
+    },
+    {
+      "id": "f48e",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar",
+        "Bacon",
+        "Salame",
+        "Tomate",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "99d8",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Bacon",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "7132",
+      "nome": "Igor Kaynan Belo de Souza",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Tomate",
+        "Cebola roxa",
+        "Pepino"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "8c50",
+      "nome": "Valeria",
+      "carne": "Maminha",
+      "pao": "Pão Mexicano",
+      "opcionais": [
+        "Tomate",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "b362",
+      "nome": "Thiago",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
+      "opcionais": [
+        "Pepino",
+        "Salame"
+      ],
+      "status": "Em produção"
+    }
+  ]
+}
