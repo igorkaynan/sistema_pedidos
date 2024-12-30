@@ -122,7 +122,7 @@
         "Bacon",
         "Salame"
       ],
-      "status": "Solicitado"
+      "status": "Em produção"
     },
     {
       "id": "6643",
@@ -185,29 +185,6 @@
       "pao": "Italiano Branco",
       "opcionais": [
         "Bacon",
-        "Cebola roxa"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "7132",
-      "nome": "Igor Kaynan Belo de Souza",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Tomate",
-        "Cebola roxa",
-        "Pepino"
-      ],
-      "status": "Solicitado"
-    },
-    {
-      "id": "8c50",
-      "nome": "Valeria",
-      "carne": "Maminha",
-      "pao": "Pão Mexicano",
-      "opcionais": [
-        "Tomate",
         "Cebola roxa"
       ],
       "status": "Solicitado"
